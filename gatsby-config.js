@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: 'Bakery',
-    description: 'Bakery and Cafe',
+    description: 'Bakery and Cafe, coffee shop',
     siteUrl: 'https://www.lastazione-bakery.com.au',
     author: 'hrsalazar',
     twitter: 'lastazione-au',
